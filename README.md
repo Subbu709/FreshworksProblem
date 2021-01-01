@@ -11,4 +11,6 @@
 # Output2
 ![](output/2.PNG)
 # Text file image
+- First line have Time-to-Live property
+- Second line don't have TTL property
 ![](output/3.PNG)
